@@ -44,17 +44,18 @@ Para executar qualquer um dos scripts, você precisa ter o [Python](https://www.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+    git clone https://github.com/Adryel7/CursoEmVideoPython.git
     ```
 
 2.  Navegue até a pasta do exercício desejado:
     ```bash
-    cd SEU_REPOSITORIO/Mundo_1/
+    cd CursoEmVideoPython
     ```
 
-3.  Execute o script via terminal:
+3.  Escolha a pasta do exercício que deseja executar (por exemplo, Mundo 1) e execute o script desejado via terminal::
     ```bash
-    python nome_do_exercicio.py
+    # Exemplo para executar um exercício dentro da pasta do Mundo 1
+    python "Mundo 1/ex 001.py" 
     ```
 
 <br>
