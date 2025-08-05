@@ -67,7 +67,7 @@ Agradeço imensamente ao professor **Gustavo Guanabara** e a toda a equipe do **
 
 ## 👨‍💻 Autor
 
-* **Adryel Salles LEite de Almeida**
+* **Adryel Salles Leite de Almeida**
 * **LinkedIn:** `https://www.linkedin.com/in/adryel-almeida-052365321/`
 * **GitHub:** `https://github.com/Adryel7`
 
